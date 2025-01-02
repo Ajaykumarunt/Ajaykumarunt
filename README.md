@@ -21,12 +21,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+<!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=YourUsername.YourRepositoryName)
+-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/YourUsername?label=Followers&style=social)
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=YourUsername.YourRepositoryName)
+
 
