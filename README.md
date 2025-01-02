@@ -6,7 +6,7 @@
 ✍️  In my free time, I solve problems on Leetcode.
 💬  Feel free to reach out to me for some interesting discussion.
 ✉️  You can shoot me an email at ajaykumar.unt@gmail.com  I'll try to respond as soon as I can.
-📄  Please have a look at my [Résumé](https://github.com/YourUsername/YourRepositoryName/raw/main/resume.pdf) for more details about me. I'm open to feedback and suggestions!
+📄  Please have a look at my [Résumé](Ajay_Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 <!--
 **Ajaykumarunt/Ajaykumarunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
